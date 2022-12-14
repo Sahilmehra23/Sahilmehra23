@@ -2,10 +2,10 @@
 - 👀 I’m interested in Web Development , Data science & technologies
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
 - 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
-- 📫 How to reach me - github id - sharad1127
+- 📫 How to reach me - github id - Sahilmehra23
 
 <!---
-sharad1127/sharad1127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sahilmehra23/Sahilmehra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ### Hi there 👋, I'm [Sahil Mehra](https://github.com/Sahilmehra23]
@@ -80,10 +80,10 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshrivastava600/)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-sahil@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil@techis.io)](mailto:sahil@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil.linkdin//)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-sahil@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil@techis.io)](mailto:sahil@techis.io)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/shubhams83/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/Sahilmehra23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sahil Mehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)](https://www.linkedin.com/in)
@@ -100,6 +100,6 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 <!---
-krishnakishor13/krishnakishor13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sahilmehra23/Sahilmehra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
