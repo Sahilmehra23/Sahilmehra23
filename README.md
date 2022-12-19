@@ -8,8 +8,7 @@
 Sahilmehra23/Sahilmehra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋, I'm [Sahil Mehra](https://github.com/Sahilmehra23]
-) 👨‍💻
+### Hi there 👋, I'm [Sahil Mehra](https://github.com/Sahilmehra23) 👨‍💻
 
 ### Visitors-Count
 ![Visitor Count](https://profile-counter.glitch.me/{Sahilmehra23}/count.svg)   
