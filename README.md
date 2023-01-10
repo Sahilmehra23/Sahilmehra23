@@ -53,7 +53,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 - 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
-- 📫 How to reach me: sharadkumar@techis.io
+- 📫 How to reach me: sahil@techis.io
 - 📝 [Resume](add your link here)
 
 ### 🛠️ Languages and Tools:
